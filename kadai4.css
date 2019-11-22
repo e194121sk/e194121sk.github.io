@@ -1,0 +1,44 @@
+h1{
+   color: white;
+   text-align:center;
+   background-color:black
+}
+
+body{
+    background-image: url("../images/screen-9.jpg");
+}
+
+h2{
+    color:black;
+    text-align:center;
+    background-color:aquamarine;
+}
+
+h3{
+    color:blue;
+}
+
+
+.redclass{
+    background-color: chartreuse;
+    text-align:center;
+    color:red
+}
+
+.classbrown{
+    background-color:brown
+    text-align:center;
+    color:brown 
+}
+
+.classpati{
+    background-color:coral
+    text-align:center;
+    color:darkgoldenrod 
+}
+
+.classpatinko{
+    background-color:darkcyan
+    text-align:center;
+    color:darksalmon
+}
